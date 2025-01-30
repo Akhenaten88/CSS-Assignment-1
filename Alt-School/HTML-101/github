@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My AltSchool Profile</title>
+</head>
+<body>
+  <!-- Top of the page -->
+  <div id="top">
+    <h1>Welcome to My AltSchool Profile</h1>
+    <p><strong>ALT SCHOOL ID:</strong> ALT/SOE/024/1473</p>
+  </div>
+
+  <!-- Biography Section -->
+  <section>
+    <h2>Biography</h2>
+    <p>
+      Hello! My name is Akhenaten Jama. I was born and raised in Somalia, lived a couple of years in Kenya where i
+      was schooled and then went to Sweden where i live and work now. My current job isn't that fulfilling job and i 
+      was hoping to level up my tech knowledge or skills, where i'm currently lacking any tech skills or know how.
+      I am a passionate learner and an aspiring front-end engineer.
+     I hope to achieve my desired goals when i finish this course at AltSchool come next year.
+    </p>
+  </section>
+
+  <!-- Why I Joined AltSchool -->
+  <section>
+    <h2>Why I Joined AltSchool Africa</h2>
+    <p>
+      I joined AltSchool Africa because it offers a structured, practical, and intensive program that aligns
+      perfectly with my career aspirations. The opportunity to learn from experienced instructors and a community
+      of like-minded peers was a major motivating factor.
+    </p>
+  </section>
+
+  <!-- My Goals -->
+  <section>
+    <h2>My Goals for the School of Engineering Program</h2>
+    <p>
+      My primary goals for this program are:
+      <ul>
+        <li>Master the core concepts of front-end engineering.</li>
+        <li>Build real-world projects to showcase my skills.</li>
+        <li>Get an entry-level job upon graduation</li>
+      </ul>
+    </p>
+  </section>
+
+  <!-- Back to Top Link -->
+  <footer>
+    <p>
+      <a href="#top">Back to Top</a>
+    </p>
+  </footer>
+</body>
+</html>
